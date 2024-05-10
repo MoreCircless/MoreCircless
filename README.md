@@ -1,5 +1,6 @@
 <h1 align="left">Hi 👋, I'm Manu</h1>
-- 🇪🇸 Living in Spain 
+
+- 🇪🇸 Living in Spain
 
 - 🌱 Autodidact trying to learn to code, mainly in python and some C++
 
