@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Manu</h1>
-- 🇪🇸 Living in Spain
-- 🌱 Autodidact trying to learn to code, mainly in python and some C++
-- ⚡ 3D printing, electronic and electricity enthusiast
+- 🇪🇸 Living in Spain \n
+- 🌱 Autodidact trying to learn to code, mainly in python and some C++ \n
+- ⚡ 3D printing, electronic and electricity enthusiast \n
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
