@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Manu</h1>
-- 🌱 I’m currently learning the world of code!!
+<h1 align="left">Hi 👋, I'm Manu</h1>
+- 🇪🇸 Living in Spain
+- 🌱 Autodidact trying to learn to code, mainly in python and some C++
+- ⚡ 3D printing, electronic and electricity enthusiast
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
