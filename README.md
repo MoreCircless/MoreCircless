@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manu</h1>
-- 🌱 I’m currently learning **the world of programming!!**
+- 🌱 I’m currently learning the world of code!!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
