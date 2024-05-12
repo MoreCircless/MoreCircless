@@ -2,7 +2,7 @@
 
 - 🇪🇸 Living in Spain
 
-- 🌱 Autodidact trying to learn to code, mainly in Python and some C++
+- 🌱 Autodidact trying to learn code, mainly in Python and some C++
 
 - ⚡ 3D printing, electronic and electricity enthusiast 
 
