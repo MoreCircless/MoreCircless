@@ -4,7 +4,6 @@
 
 - 🌱 Autodidact trying to learn 
 
-- ⚡ 3D printing, electronic and electricity enthusiast 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
