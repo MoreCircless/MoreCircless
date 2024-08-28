@@ -2,7 +2,7 @@
 
 - 🇪🇸 Living in Spain
 
-- 🌱 Autodidact trying to learn 
+- 🌱 Trying to learn 
 
 
 <h3 align="left">Connect with me:</h3>
